@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{3a8d8ac2-6c15-4276-97f4-9c1ac5e13f00}</ProjectGuid>
-    <RootNamespace>paradigmaoop2</RootNamespace>
+    <ProjectGuid>{d9a3ea8d-e196-4525-851b-b55838e12e43}</ProjectGuid>
+    <RootNamespace>enkapsulasi</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="paradigmaoop2.cpp" />
+    <ClCompile Include="enkapsulasi.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

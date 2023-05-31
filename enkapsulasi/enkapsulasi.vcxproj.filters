@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="paradigmaoop2.cpp">
+    <ClCompile Include="enkapsulasi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
