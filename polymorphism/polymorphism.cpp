@@ -36,5 +36,6 @@ int main() {
 	obyek->pesan();
 	//a.seseorang::pesan():
 
+
 	return 0;
 }
